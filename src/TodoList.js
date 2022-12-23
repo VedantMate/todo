@@ -62,7 +62,7 @@ class TodoList extends Component {
     return (
       <div className='TodoList'>
         <h1>
-          Get To Work! <span>An Animated Todo List Made With React Hooks.</span>
+          Get To Work! <span>An Animated Todo List Made With React.js.</span>
         </h1>
         <NewTodoForm createTodo={this.create} />
 
